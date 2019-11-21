@@ -33,6 +33,7 @@ For the simple setup, you can use an old/unused spare computer (try to use at le
 You don't need a lot of processing power if the video/audio formats you have can be played directly by your Smart TV (or player). When that happens we say it's a "Direct Play" (as there's no re-encoding happening).
 
 If you want to use Linux for your Media Server, you can follow these instructions:
+
 https://wiki.archlinux.org/index.php/plex
 
 For Ubuntu and other distros the instructions should be similar.
@@ -46,4 +47,9 @@ What you're doing is basically:
 
 * In this case, "remotely" (loosely) means you're gonna be using the web player to consume media. If you're consuming media using your phone and the Plex app, the you need a Plex Pass.
 
+After you have your server running, install and open Plex on your Smart TV.
+
+It's been a while since I've installed it on mine, so I'm writing this by memory; but the player should have on-screen instructions easy enough for you to figure how to point it to your Server (it probably detects it on your network).
+
+Next is "Creating a Library" and adding content to it.
 
